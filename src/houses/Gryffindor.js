@@ -1,3 +1,5 @@
+
+
 function colors() {
   console.log("Scarlet and Gold");
 }
